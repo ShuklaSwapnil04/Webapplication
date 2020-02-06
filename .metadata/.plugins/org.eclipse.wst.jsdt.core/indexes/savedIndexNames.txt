@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\swaplin cht\Desktop\eclipse_work\Webcontent\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2690612071.index
+1578143443.index
+976674389.index
+1238167363.index
+4231593536.index
+1791350360.index
+3938129982.index
